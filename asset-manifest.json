@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Explore__coimbatore/static/css/main.f745d3af.css",
-    "main.js": "/Explore__coimbatore/static/js/main.6bd17693.js",
+    "main.js": "/Explore__coimbatore/static/js/main.51a61d91.js",
     "static/js/453.44cc0286.chunk.js": "/Explore__coimbatore/static/js/453.44cc0286.chunk.js",
     "static/media/brooke.png": "/Explore__coimbatore/static/media/brooke.5b0c5a8bea35876f70df.png",
     "static/media/marudhamalai.png": "/Explore__coimbatore/static/media/marudhamalai.71333da7e912941ee8b0.png",
@@ -71,11 +71,11 @@
     "static/media/hari.png": "/Explore__coimbatore/static/media/hari.add050ee787483114ab7.png",
     "index.html": "/Explore__coimbatore/index.html",
     "main.f745d3af.css.map": "/Explore__coimbatore/static/css/main.f745d3af.css.map",
-    "main.6bd17693.js.map": "/Explore__coimbatore/static/js/main.6bd17693.js.map",
+    "main.51a61d91.js.map": "/Explore__coimbatore/static/js/main.51a61d91.js.map",
     "453.44cc0286.chunk.js.map": "/Explore__coimbatore/static/js/453.44cc0286.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f745d3af.css",
-    "static/js/main.6bd17693.js"
+    "static/js/main.51a61d91.js"
   ]
 }
