@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Explore__coimbatore/static/css/main.e6c13ad2.css",
-    "main.js": "/Explore__coimbatore/static/js/main.da6212ef.js",
-    "static/js/453.4f04d1ae.chunk.js": "/Explore__coimbatore/static/js/453.4f04d1ae.chunk.js",
-    "index.html": "/Explore__coimbatore/index.html",
-    "main.e6c13ad2.css.map": "/Explore__coimbatore/static/css/main.e6c13ad2.css.map",
-    "main.da6212ef.js.map": "/Explore__coimbatore/static/js/main.da6212ef.js.map",
-    "453.4f04d1ae.chunk.js.map": "/Explore__coimbatore/static/js/453.4f04d1ae.chunk.js.map"
+    "main.css": "/bhuvaneshwari152/Explore__coimbatore.git/static/css/main.e6c13ad2.css",
+    "main.js": "/bhuvaneshwari152/Explore__coimbatore.git/static/js/main.b21742e4.js",
+    "static/js/453.4f04d1ae.chunk.js": "/bhuvaneshwari152/Explore__coimbatore.git/static/js/453.4f04d1ae.chunk.js",
+    "index.html": "/bhuvaneshwari152/Explore__coimbatore.git/index.html",
+    "main.e6c13ad2.css.map": "/bhuvaneshwari152/Explore__coimbatore.git/static/css/main.e6c13ad2.css.map",
+    "main.b21742e4.js.map": "/bhuvaneshwari152/Explore__coimbatore.git/static/js/main.b21742e4.js.map",
+    "453.4f04d1ae.chunk.js.map": "/bhuvaneshwari152/Explore__coimbatore.git/static/js/453.4f04d1ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.da6212ef.js"
+    "static/js/main.b21742e4.js"
   ]
 }
